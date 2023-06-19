@@ -22,7 +22,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: ShyAssassin
+          user: pyrosprites
           template: classic
           base: header, activity, community, repositories, metadata
           base_hireable: yes
