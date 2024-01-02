@@ -1,3 +1,3 @@
-| ![image](https://github.com/pyrosprites/pyrosprites/assets/90645120/47d52a8f-0d1b-4bd8-9828-e1fda50e066f) | ![image](https://github.com/pyrosprites/pyrosprites/assets/90645120/d3202a96-0fcc-4809-a3c7-44e051f7e5f7) |
+| ![image](https://github.com/pyrosprites/pyrosprites/assets/90645120/ebd0f136-6ff1-4ace-9ff2-e72c69587d33) | ![image](https://github.com/pyrosprites/pyrosprites/assets/90645120/22fa914b-a434-4415-b828-70694a9d85a9) |
 |-----|-----|
-|Dirty Folder |Keebox|
+| Filefetti | Keebox |
